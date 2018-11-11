@@ -2,7 +2,7 @@
 Mediumish is a Batflat theme like Medium. Similar look and feel, Mediumish is the perfect blog theme.
 
 ## Features
-- Bootstrap 4.1
+- Bootstrap 4.0
 - Responsive
 - Cross Browser Compatible
 - Masonry
@@ -14,6 +14,9 @@ Mediumish is a Batflat theme like Medium. Similar look and feel, Mediumish is th
 
 ## Compatible
 - Batflat 1.3.5
+
+## Installation
+Just download the latest zip release and uncompress it in batflat themes folder.
 
 ## Author
 - Thomas Cenni
